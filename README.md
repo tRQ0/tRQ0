@@ -7,4 +7,4 @@
   <br/>
   My go to quote:<br/>
 </p>
-  > 1% better everyday
+  "1% better everyday"
